@@ -4,7 +4,7 @@ class Contacts extends Component {
     render() {
         return (
             <div>
-                <h1>Blog</h1>
+                <h1>Contacts</h1>
             </div>
         );
     }
